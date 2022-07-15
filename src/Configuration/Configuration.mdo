@@ -35,5 +35,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
-  <commonModules>CommonModule.ОбщийМодуль</commonModules>
+  <documents>Document.Закупка</documents>
 </mdclass:Configuration>
